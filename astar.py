@@ -1,8 +1,6 @@
 import pygame
 import math 
 from queue import PriorityQueue
-from tkinter import *
-from tkinter import messagebox
 
 WIDTH = 800
 WIN = pygame.display.set_mode((WIDTH, WIDTH))
